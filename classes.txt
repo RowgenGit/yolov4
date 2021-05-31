@@ -1,0 +1,9 @@
+ car
+ truck
+ bus
+ van
+ cyclist
+ pedestrian
+ trolley
+ plastic basket
+
